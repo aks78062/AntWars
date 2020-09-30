@@ -1,10 +1,10 @@
-This is a toy game based on a game that my son and I liked called 'AntWars'
+This is a toy game based on a game that my son and I liked called 'AntWars'.
 
 It's mostly a learning project.
 
 
 -----------
-To Play:
+To play this mini game:
 -----------
 
 Run from the command line:
@@ -25,4 +25,7 @@ Demo mode is:
     
 Debug mode is:
     $ python AntWars.py 6 6 C1 C2 F60
+    
+  I hope you will enjoy and learn from this.  
+  
     
